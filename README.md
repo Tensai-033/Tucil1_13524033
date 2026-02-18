@@ -51,8 +51,6 @@ Untuk mengganti input, masukkan input baru di folder Tucil1_13524033 berekstensi
 
 ifstream file("input_7.txt");
 
-menjadi:
-
 ifstream file(<nama_file.txt>);
 
 
